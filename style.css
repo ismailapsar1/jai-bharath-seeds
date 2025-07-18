@@ -86,6 +86,60 @@ header p {
   width: 100%;
   border-radius: 5px;
 }
+.ismails {
+  padding: 20px;
+  text-align: center;
+}
+
+.ismail-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 10px;
+}
+
+.ismail-cards {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  padding: 15px;
+}
+
+.ismail-cards img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+
+.apsars {
+  padding: 20px;
+  text-align: center;
+}
+
+.apsar-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 10px;
+}
+
+.apsar-cards {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  padding: 15px;
+}
+
+.apsar-cards img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+
 
 /* WhatsApp floating button */
 .whatsapp-float {
